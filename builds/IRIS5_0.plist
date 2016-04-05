@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ballytech.BallyFieldService</string>
 				<key>bundle-version</key>
-				<string>5.0.2</string>
+				<string>5.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>IRIS5_0_2</string>
+				<string>IRIS5_0_3</string>
 			</dict>
 		</dict>
 	</array>
