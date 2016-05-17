@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ballytech.BallyFieldService</string>
 				<key>bundle-version</key>
-				<string>5.00</string>
+				<string>5.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
